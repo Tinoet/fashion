@@ -36,7 +36,7 @@ h1{
   align-items:center ;
 }
 h1 a{
-  transform: scale(0.9);
+  transform: scale(1);
 }
 
 a{
